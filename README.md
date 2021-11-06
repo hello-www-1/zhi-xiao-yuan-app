@@ -4,7 +4,10 @@
 > ⚠️ 手机和电脑必须在同一个局域网下！！！
 
 1. 在电脑上下载并安装
-https://github.com/hello-www-1/zhi-xiao-yuan-app/releases/
+
+mac: https://ghproxy.com?q=https://github.com/hello-www-1/zhi-xiao-yuan-app/releases/download/1.0.0/macos.zip
+
+windows: https://ghproxy.com?q=https://github.com/hello-www-1/zhi-xiao-yuan-app/releases/download/1.0.0/windows.zip
 
 2. 开启代理，显示如下则成功开启
 <img height="500px" center src="https://user-images.githubusercontent.com/93814806/140601110-92f98fc1-b63e-4626-b9b9-8c7503683d65.png" />
