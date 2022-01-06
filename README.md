@@ -1,3 +1,4 @@
+![zhi-xiao-yuan-app](https://socialify.git.ci/hello-www-1/zhi-xiao-yuan-app/image?description=1&font=Inter&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 # 智校园代理
 
 ## 使用方法：
